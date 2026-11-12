@@ -6,9 +6,3 @@ elif nota >= 5:
 
 else:
     print("Reprovado")
-
-
-
-
-
-
